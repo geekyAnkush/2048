@@ -8,6 +8,6 @@ The famous 2048 game made in react, with animations
 - [React](https://beta.reactjs.org/) - Javascript frontend library
 - [SASS](https://sass-lang.com/) - CSS Preprocessor
 
-## Authors 🖋
+## Author 🖋
 
 - **Kumar Ankush** [geekyAnkush](https://github.com/geekyAnkush)
